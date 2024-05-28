@@ -17,3 +17,8 @@ where condition = met
 
 ```
 ![](tech.PNG)
+|NAME |GENDER| AGE|
+|---- |------| ---|
+|FAITH |MALE| 15|
+|ADURA |FEMALE| 12|
+|TAYO |MALE| 17|
